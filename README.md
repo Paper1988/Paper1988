@@ -35,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo"  />
 </div>
 
 ###
@@ -55,15 +57,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/GGReric/GGReric/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/es2z2q420n31do6knmfuqipfu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=es2z2q420n31do6knmfuqipfu&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
