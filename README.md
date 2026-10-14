@@ -125,10 +125,18 @@ A native macOS menu bar app for adjusting left/right audio balance and keeping i
 ## 04 / The activity log
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Paper1988&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=8B80F9&icon_color=36CFC9&text_color=8A8F98&include_all_commits=true" alt="Paper's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paper1988&layout=compact&hide_border=true&theme=transparent&title_color=8B80F9&text_color=8A8F98" alt="Most used languages" />
+
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paper1988&theme=github_dark" alt="GitHub profile activity summary" />
+
   <br />
-  <img width="90%" src="https://streak-stats.demolab.com?user=Paper1988&hide_border=true&background=00000000&ring=8B80F9&fire=36CFC9&currStreakLabel=8B80F9&sideLabels=8A8F98&dates=8A8F98" alt="GitHub contribution streak" />
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paper1988&theme=github_dark" alt="GitHub statistics summary" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paper1988&theme=github_dark" alt="Most used languages by commits" />
+
+  <br />
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Paper1988&bg_color=0d1117&color=8b80f9&line=36cfc9&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="GitHub contribution timeline" />
+
 </div>
 
 ## 05 / One last thing
